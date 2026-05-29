@@ -1,0 +1,23 @@
+{
+  "name": "Elmostafa Mohamed Abdelaal — Portfolio",
+  "short_name": "Elmostafa",
+  "description": "Cybersecurity Researcher & Full-Stack Developer",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020510",
+  "theme_color": "#00ff88",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/favicon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
